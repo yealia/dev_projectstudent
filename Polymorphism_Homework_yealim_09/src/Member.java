@@ -7,6 +7,9 @@ public class Member {
         public Member(){
 
         }
+
+
+
         public Member(String name, char gender){
 
         }
